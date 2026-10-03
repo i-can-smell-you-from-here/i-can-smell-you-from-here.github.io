@@ -1,0 +1,260 @@
+{
+  "enabled": true,
+  "keywords": [],
+  "primaryKeyword": "i can smell you from here",
+  "secondaryKeywords": [],
+  "searchIntent": "Game information",
+  "priority": "P0",
+  "navVisible": true,
+  "factsStatus": "verified",
+  "lastReviewed": "2026-10-03",
+  "slug": "",
+  "pageType": "home",
+  "title": "I Can Smell You From Here Game, Endings & Guide",
+  "description": "I Can Smell You From Here is a horror visual novel by catproblem9735. Play on itch.io, learn the controls, explore 5 endings, and meet Idimya.",
+  "hero": {
+    "eyebrow": "A first date. One lie. Five endings.",
+    "heading": "I Can Smell You From Here",
+    "lead": "I Can Smell You From Here is a horror visual novel by catproblem9735 with five endings. Play the official browser version on itch.io, or download it for Windows, Linux and Android.",
+    "supportingText": "A first date becomes a test of survival as one lie demands increasingly ridiculous details. Your choices shape the conversation with Idimya and the evaluation at the end of each run.",
+    "primaryLink": {
+      "label": "Explore the endings",
+      "slug": "endings"
+    },
+    "secondaryLink": {
+      "label": "Play on itch.io",
+      "url": "https://catproblem9735.itch.io/i-can-smell-you-from-here"
+    }
+  },
+  "screenshots": [],
+  "sections": [
+    {
+      "id": "what-is",
+      "heading": "What Is I Can Smell You From Here?",
+      "paragraphs": [
+        "It begins with a first-ever date arranged through a dating app. The familiar worry of saying the wrong thing quickly becomes something more dangerous: once you tell a lie, you have to keep the rest of your story consistent. Each new detail can make the next answer harder. The creator built the game around that specific fear, turning an awkward conversation into a compact horror story.",
+        "This is a choice-driven visual novel, so reading and deciding what to say are the main activities. The official listing places it alongside horror, dark humor, psychological horror and surreal satire. The dating setup gives you a reason to talk, but it does not guarantee a safe romance. Idimya is central to the danger, and the story asks how far you will go to justify what you have already said.",
+        "Itch.io lists an average session of about half an hour. Treat that as a useful estimate for setting aside time, rather than a timer or a promise that every route takes exactly the same length. Reading pace and replaying branches will change your total time. The game is in English and lists subtitles among its accessibility features."
+      ],
+      "table": {
+        "caption": "Game at a glance",
+        "columns": [
+          "Detail",
+          "Official game information"
+        ],
+        "rows": [
+          [
+            "Developer",
+            "catproblem9735"
+          ],
+          [
+            "Genre",
+            "Visual Novel / Horror"
+          ],
+          [
+            "Engine",
+            "Godot"
+          ],
+          [
+            "Status",
+            "Released"
+          ],
+          [
+            "Published",
+            "September 14, 2026"
+          ],
+          [
+            "Platforms",
+            "HTML5 browser, Windows, Linux, Android"
+          ],
+          [
+            "Endings",
+            "5"
+          ],
+          [
+            "Language / accessibility",
+            "English / subtitles"
+          ],
+          [
+            "Average session",
+            "About a half-hour"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "where-to-play",
+      "heading": "Where Can You Play I Can Smell You From Here?",
+      "paragraphs": [
+        "The developer’s itch.io page is the starting point for both the browser game and downloadable builds. It keeps the game description, files and update notes together, making it easier to choose the version for your device. You do not need to search for a separate unofficial launcher or a rehosted copy to reach the game."
+      ],
+      "subsections": [
+        {
+          "heading": "Play in your browser on itch.io",
+          "paragraphs": [
+            "The HTML5 version runs from the official game page. For a first playthrough, keep enough room on screen to read the dialogue and choice text comfortably. Learn the difference between advancing a line and confirming a choice before the conversation starts branching."
+          ]
+        },
+        {
+          "heading": "Windows, Linux and Android downloads",
+          "paragraphs": [
+            "The official listing includes Windows and Linux builds plus an Android APK. The v1.1.2 mobile update directs Android players to the APK if mobile browser play does not work. The current mobile port is Android only; that announcement does not establish an iOS version."
+          ]
+        }
+      ],
+      "links": [
+        {
+          "slug": "where-to-play",
+          "label": "Official platforms and Steam availability",
+          "description": "Find the official play link and compare the versions."
+        }
+      ]
+    },
+    {
+      "id": "five-endings",
+      "heading": "I Can Smell You From Here Has 5 Endings",
+      "paragraphs": [
+        "The creator lists five endings. Choices matter across the date, and each run ends with a psychological evaluation showing how close the player is to Idimya’s heart and values. This gives you something to compare after a replay besides the final scene alone. The evaluation belongs to the run; it does not turn the five-ending total into six.",
+        "For a first run, follow the conversation and let your answers form a story. On later runs, note the major claims you change and compare the result. Creator comments identify Prey as one ending and describe a rival outcome in which Idimya can spare the player. Attraction and a hidden pacifist or vegan direction also enter the discussion, but those clues are best explored as connected choices rather than isolated magic answers."
+      ],
+      "links": [
+        {
+          "slug": "endings",
+          "label": "I Can Smell You From Here endings guide",
+          "description": "Read the outcome overview and use a spoiler-light route tracker."
+        }
+      ]
+    },
+    {
+      "id": "meet-idimya",
+      "heading": "Meet Idimya",
+      "paragraphs": [
+        "Idimya is the central date and monster character. She is the person you are trying to persuade while also trying to survive. The tension comes from talking to someone whose relationship to humans is dangerous, rather than simply trying to impress an ordinary date. A convincing story can therefore have consequences beyond whether she likes you.",
+        "The creator describes her as an apex predator who learns from experience and operates within her own framework. Keep that in mind when reading her responses: treating the date as a straightforward romance can miss the survival problem beneath it. The creator frames a crush as the furthest romantic direction and does not promise a traditional happily-ever-after."
+      ],
+      "links": [
+        {
+          "slug": "idimya",
+          "label": "Who is Idimya?",
+          "description": "Explore her role, the first-date premise and how she responds to the player."
+        }
+      ]
+    },
+    {
+      "id": "controls",
+      "heading": "Controls and How Choices Work",
+      "paragraphs": [
+        "The most useful distinction is simple: press to advance dialogue, hold to confirm a dialogue choice. Enter, Space and the left mouse button all support those actions. Navigate the available choices with the arrow keys or scroll wheel, then hold a confirmation input once the intended answer is selected.",
+        "Hold Enter, Space or the left mouse button for three seconds to fast-forward until the next choice. That is especially useful when replaying text you have already read. The scroll wheel also reviews recent dialogue, and Tab opens Options. The v1.1.1 patch reworked mouse input, so old advice about hovering over choices can be misleading."
+      ],
+      "table": {
+        "caption": "Official desktop controls",
+        "columns": [
+          "Input",
+          "Action"
+        ],
+        "rows": [
+          [
+            "Enter / Space / Left Mouse Button",
+            "Progress dialogue"
+          ],
+          [
+            "Arrow Keys / Scroll Wheel",
+            "Navigate choices"
+          ],
+          [
+            "Hold Enter / Space / Left Mouse Button",
+            "Confirm a dialogue choice"
+          ],
+          [
+            "Hold Enter / Space / Left Mouse Button for 3 seconds",
+            "Fast-forward dialogue until the next choice"
+          ],
+          [
+            "Scroll Wheel",
+            "Review recent dialogue"
+          ],
+          [
+            "Tab",
+            "Open Options"
+          ]
+        ]
+      },
+      "links": [
+        {
+          "slug": "controls",
+          "label": "Full controls and choice-confirmation help",
+          "description": "Get the step-by-step input reference and dialogue-history boundary."
+        }
+      ]
+    },
+    {
+      "id": "content-warning",
+      "heading": "Content Warning and Who This Game Is For",
+      "paragraphs": [
+        "The developer warns of body horror, violence, cannibalism, references to murder, strong language and sexual themes. These themes belong to the horror premise, even though the opening resembles a date and the game includes dark humor. Read the warning before starting, especially if you are looking for a light romance or a game to share with someone unfamiliar with its subject matter.",
+        "The compact format suits players who enjoy reading a conversation closely, noticing contradictions and testing alternate answers. You do not need to collect equipment or learn a combat system to understand the core setup. Your attention goes to what you claim, how those claims fit together and how Idimya responds. A slower first run gives that tension room to develop before you use replay shortcuts.",
+        "If you want to avoid outcome spoilers, start with the controls and platform pages, then return to the endings guide after finishing a run. The character page discusses the survival premise and creator commentary, so it reveals more than the basic store description. Choose the amount of detail that fits how you want to experience the date."
+      ]
+    },
+    {
+      "id": "guides",
+      "heading": "I Can Smell You From Here Guides",
+      "paragraphs": [
+        "Use these four focused guides for the question you have right now. The platform guide gets you to the official game; the controls guide helps when an input does not behave as expected. After a run, the endings and Idimya pages provide context for exploring a different direction without turning every answer into a prescribed walkthrough."
+      ],
+      "links": [
+        {
+          "slug": "endings",
+          "label": "Endings",
+          "description": "Understand the five-ending structure, Prey, rival and crush outcomes, and plan your next run."
+        },
+        {
+          "slug": "where-to-play",
+          "label": "Where to Play",
+          "description": "Open the official itch.io game, compare browser and download versions, and check Steam availability."
+        },
+        {
+          "slug": "idimya",
+          "label": "Idimya",
+          "description": "Meet the character at the center of the date and understand the predator behind the conversation."
+        },
+        {
+          "slug": "controls",
+          "label": "Controls",
+          "description": "Learn how to select and hold to confirm choices, review dialogue, fast-forward and open Options."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "question": "What is I Can Smell You From Here?",
+      "answer": "It is a short horror visual novel about a first date and an escalating lie. Choices across the conversation affect the outcome and the end-of-run evaluation."
+    },
+    {
+      "question": "Who made I Can Smell You From Here?",
+      "answer": "The developer is catproblem9735, credited on the official itch.io page for writing, game design, art, animation, music, sound and programming."
+    },
+    {
+      "question": "How many endings are there?",
+      "answer": "The creator lists five endings. The psychological evaluation gives additional context for each run rather than adding another ending."
+    },
+    {
+      "question": "Where can I play it?",
+      "answer": "The official itch.io page offers browser play and lists Windows, Linux and Android downloads. Use the Where to Play guide for the direct link and device notes."
+    },
+    {
+      "question": "Is I Can Smell You From Here on Steam?",
+      "answer": "As of October 3, 2026, the official itch.io page lists browser, Windows, Linux and Android versions and does not list an official Steam release."
+    },
+    {
+      "question": "Who is Idimya?",
+      "answer": "Idimya is the central date and monster character. Your conversation with her turns the dating setup into a survival problem."
+    },
+    {
+      "question": "How long is the game?",
+      "answer": "Itch.io lists an average session of about half an hour. Your reading pace and the number of routes you replay affect total playtime."
+    }
+  ]
+}

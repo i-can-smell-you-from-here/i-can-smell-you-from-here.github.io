@@ -1,0 +1,721 @@
+[
+  {
+    "enabled": true,
+    "keywords": [],
+    "primaryKeyword": "i can smell you from here",
+    "secondaryKeywords": [],
+    "searchIntent": "Game information",
+    "priority": "P0",
+    "navVisible": true,
+    "factsStatus": "verified",
+    "lastReviewed": "2026-10-03",
+    "slug": "endings",
+    "pageType": "article",
+    "navLabel": "Endings",
+    "title": "I Can Smell You From Here Endings Guide (5 Endings)",
+    "description": "I Can Smell You From Here has 5 endings. Learn the confirmed ending structure, how choices shape each route, and how to track runs without missing branches.",
+    "hero": {
+      "eyebrow": "Five endings · Spoiler-light route help",
+      "heading": "I Can Smell You From Here Endings Guide",
+      "lead": "The creator lists 5 endings in I Can Smell You From Here. Your choices across the conversation influence the outcome, and the end-of-run psychological evaluation helps you compare routes."
+    },
+    "relatedSlugs": [
+      "idimya",
+      "controls",
+      "where-to-play"
+    ],
+    "sections": [
+      {
+        "id": "ending-count",
+        "heading": "How Many Endings Are in I Can Smell You From Here?",
+        "paragraphs": [
+          "There are five endings, as stated by catproblem9735 on the official game page. The game also evaluates the player at the end of each run, showing how close their position is to Idimya’s heart and values. Keep those two pieces of information separate when tracking completion: the ending is the result, while the evaluation helps explain the route you took.",
+          "An evaluation that looks different from your previous run is useful feedback, but it does not automatically mean you have found a new formal ending. Write down the ending text shown by the game alongside the evaluation. That keeps your personal count tied to the game’s result rather than to every small variation in the conversation."
+        ],
+        "intro": "Spoiler note: the sections below discuss Prey, being spared, attraction and the hidden pacifist direction. They do not give a choice-by-choice answer sequence."
+      },
+      {
+        "id": "confirmed-outcomes",
+        "heading": "What Is Confirmed About the Endings?",
+        "paragraphs": [],
+        "subsections": [
+          {
+            "heading": "Prey is one of the five endings",
+            "paragraphs": [
+              "The creator explicitly identifies Prey as one of the five. Record it as an ending when the game shows that result. It belongs to the same five-ending structure as the other outcomes; it is not a separate failure counter outside the total."
+            ]
+          },
+          {
+            "heading": "Rival outcomes can still spare you",
+            "paragraphs": [
+              "Creator comments describe an outcome in which Idimya sees the player as a rival but spares them. Disagreement and survival can therefore coexist. Do not assume that getting closer to every one of her values is the only direction worth testing."
+            ]
+          },
+          {
+            "heading": "Crush and attraction can affect some outcomes",
+            "paragraphs": [
+              "The creator mentions rival plus crush and frames a crush as the furthest romantic direction. When comparing runs, note attraction separately from the ending text. A romantic signal gives context to a result; it is not a promise of a safe, conventional relationship afterward."
+            ]
+          },
+          {
+            "heading": "The hidden pacifist / vegan direction",
+            "paragraphs": [
+              "The creator also points players toward convincing Idimya to be a pacifist or vegan. This is a useful direction for a replay, especially when exploring a spared rival outcome. Treat it as a theme to pursue through the conversation, rather than a single universally successful reply."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "choices",
+        "heading": "How Choices Shape Your Route",
+        "paragraphs": [
+          "The central premise is keeping a story consistent after a lie. Later details grow out of earlier claims, so pay attention to what your character has already said. When you change a decision on a replay, consider the position it establishes and the answers that follow it. Testing a new route is easier when you can describe the story you are trying to tell.",
+          "Idimya’s values and the player’s relationship to her matter to the end-of-run evaluation. Use that visible feedback to compare two runs instead of guessing invisible point totals or thresholds. The same broad aim, such as survival, can leave room for different attitudes toward her and toward humans."
+        ],
+        "links": [
+          {
+            "slug": "idimya",
+            "label": "Understand Idimya’s role",
+            "description": "Read the creator-backed character context behind the conversation."
+          }
+        ]
+      },
+      {
+        "id": "track-endings",
+        "heading": "How to Track All 5 Endings Efficiently",
+        "paragraphs": [],
+        "subsections": [
+          {
+            "heading": "Save before major choice branches",
+            "paragraphs": [
+              "Use the game’s save facilities to preserve a point you want to revisit. Label it in your own notes with the important claim you made just beforehand. This helps you return to the same context when comparing answers instead of accidentally testing two different starting situations."
+            ]
+          },
+          {
+            "heading": "Change one major decision at a time",
+            "paragraphs": [
+              "On your next attempt, change one significant decision and note what follows. If you rewrite several earlier claims at once, it becomes harder to explain a different result. You can still explore freely; controlled comparisons are simply easier to learn from."
+            ]
+          },
+          {
+            "heading": "Use dialogue review to remember earlier claims",
+            "paragraphs": [
+              "The scroll wheel reviews previous lines up to the previous save point or choice. Use it when you need to recall a recent detail. For claims beyond that boundary, keep a short note rather than expecting dialogue history to reconstruct the entire run."
+            ]
+          },
+          {
+            "heading": "Fast-forward only familiar dialogue",
+            "paragraphs": [
+              "Hold Enter, Space or the left mouse button for three seconds to fast-forward until the next choice. Read new branches normally so you do not miss the consequences of the answer you changed. Release the input and check the selection when a choice appears."
+            ]
+          },
+          {
+            "heading": "Compare the ending with the evaluation screen",
+            "paragraphs": [
+              "At the end, record both the result and what the evaluation shows. Then choose one question for the next attempt: could a different claim change her response, or could a different value position still lead to survival? Keep your next test specific."
+            ]
+          }
+        ],
+        "links": [
+          {
+            "slug": "controls",
+            "label": "Controls for replaying routes",
+            "description": "Check hold-to-confirm, fast-forward and dialogue review."
+          }
+        ]
+      },
+      {
+        "id": "route-tracker",
+        "heading": "Spoiler-Light Route Tracker",
+        "paragraphs": [
+          "Copy this blank tracker into your own notes. Fill in the ending exactly as the game presents it and use plain-language evaluation notes. Five rows give you room to begin comparing attempts; they are not a list of five prescribed routes or a guarantee that five attempts will reveal every ending."
+        ],
+        "table": {
+          "caption": "Your personal replay notes",
+          "columns": [
+            "Run",
+            "Key choices you changed",
+            "Ending shown by the game",
+            "Evaluation notes",
+            "Next test"
+          ],
+          "rows": [
+            [
+              "1",
+              "Record your changes",
+              "Record the result",
+              "Describe the evaluation",
+              "Choose one change"
+            ],
+            [
+              "2",
+              "Record your changes",
+              "Record the result",
+              "Describe the evaluation",
+              "Choose one change"
+            ],
+            [
+              "3",
+              "Record your changes",
+              "Record the result",
+              "Describe the evaluation",
+              "Choose one change"
+            ],
+            [
+              "4",
+              "Record your changes",
+              "Record the result",
+              "Describe the evaluation",
+              "Choose one change"
+            ],
+            [
+              "5",
+              "Record your changes",
+              "Record the result",
+              "Describe the evaluation",
+              "Choose one change"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "common-questions",
+        "heading": "Common Ending Questions",
+        "paragraphs": [
+          "Being spared, being seen as a rival and receiving a crush signal describe different aspects of an outcome. Track what the ending actually says before deciding whether a relationship variation counts as a new ending. The creator’s discussion of a rival-plus-crush direction is a reason to explore combinations, not to count every relationship word as its own separate ending.",
+          "The survival framing also changes what “best ending” means. A route can be interesting because your values differ from Idimya’s, because she responds differently, or because you survive. Decide which of those questions you want to explore next, while keeping the formal five-ending total distinct from your personal favorite run."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "How many endings does I Can Smell You From Here have?",
+        "answer": "Five, according to the creator’s official game page."
+      },
+      {
+        "question": "Is Prey one of the endings?",
+        "answer": "Yes. catproblem9735 confirms that Prey is one of the five endings."
+      },
+      {
+        "question": "Can Idimya spare you?",
+        "answer": "Yes. Creator comments describe a rival outcome in which she spares the player."
+      },
+      {
+        "question": "Is there a vegan or pacifist path?",
+        "answer": "The creator describes a hidden direction involving convincing Idimya to be a pacifist or vegan, including in discussion of a spared rival outcome."
+      },
+      {
+        "question": "Does the psychological evaluation count as another ending?",
+        "answer": "The game lists five endings plus an evaluation of each run. Track the evaluation alongside the ending rather than adding it to the ending count."
+      },
+      {
+        "question": "How do I replay routes faster?",
+        "answer": "Hold Enter, Space or the left mouse button for three seconds to fast-forward familiar dialogue until the next choice. Read new branches and hold to confirm the selected answer."
+      }
+    ]
+  },
+  {
+    "enabled": true,
+    "keywords": [],
+    "primaryKeyword": "i can smell you from here",
+    "secondaryKeywords": [],
+    "searchIntent": "Game information",
+    "priority": "P0",
+    "navVisible": true,
+    "factsStatus": "verified",
+    "lastReviewed": "2026-10-03",
+    "slug": "where-to-play",
+    "pageType": "article",
+    "navLabel": "Where to Play",
+    "title": "I Can Smell You From Here: Where to Play & Download",
+    "description": "Play I Can Smell You From Here on itch.io in your browser or download it for Windows, Linux, and Android. See current Steam availability and platform details.",
+    "hero": {
+      "eyebrow": "Official platforms · Last checked October 3, 2026",
+      "heading": "Where to Play I Can Smell You From Here",
+      "lead": "The official game is on itch.io, with browser play and Windows, Linux and Android downloads. As of October 3, 2026, the developer’s page does not list an official Steam release."
+    },
+    "relatedSlugs": [
+      "controls",
+      "endings"
+    ],
+    "sections": [
+      {
+        "id": "official-page",
+        "heading": "Official I Can Smell You From Here itch.io Page",
+        "paragraphs": [
+          "Use catproblem9735’s itch.io game page to play or download I Can Smell You From Here. It is the developer’s own listing, with the game description, content warning, downloadable files and development posts in one place. The prominent play button above opens that page directly, so you can choose the browser version or the build for your device.",
+          "This guide is an independent fan-made resource. The game runs on the developer’s page or in the developer’s downloaded build, rather than inside this website. A page discussing the game, a video of a playthrough and a third-party mirror are different from the creator’s official distribution page. Start with the creator’s listing when choosing files or checking a new update."
+        ]
+      },
+      {
+        "id": "browser",
+        "heading": "Play I Can Smell You From Here in Your Browser",
+        "paragraphs": [
+          "The official listing includes an HTML5 browser version. Open the itch.io page and use its Run game control to begin. Browser play is a convenient first option when you want to try the conversation without choosing a desktop download. Give the game enough screen space to read the dialogue and the available answers.",
+          "Use a current browser and keep the game in focus when sending keyboard inputs. The opening is dialogue-heavy, and a selected answer needs a hold to confirm rather than a quick press. If the game is responding to normal dialogue input but not confirming your choice, check the input method before assuming that the browser build is broken."
+        ],
+        "links": [
+          {
+            "slug": "controls",
+            "label": "Learn the controls before the first choice",
+            "description": "See the official input table and hold-to-confirm explanation."
+          }
+        ]
+      },
+      {
+        "id": "downloads",
+        "heading": "Download for Windows, Linux and Android",
+        "paragraphs": [
+          "The official download section lists desktop ZIP builds and an Android APK. Select the file that itch.io identifies for your operating system and follow any instructions supplied with that build. Return to the same page for current files instead of relying on an installer copied into an unrelated guide."
+        ],
+        "subsections": [
+          {
+            "heading": "Windows",
+            "paragraphs": [
+              "Choose the Windows download from the developer’s listing. If you use several devices, keep track of which file you selected so you can return to the matching build. The game page is also where the creator publishes changes that may affect input behavior."
+            ]
+          },
+          {
+            "heading": "Linux",
+            "paragraphs": [
+              "Choose the Linux build in the official itch.io download section. Windows and Linux are separately listed platforms. This guide does not supply an alternate package or replace the developer’s installation instructions."
+            ]
+          },
+          {
+            "heading": "Android APK",
+            "paragraphs": [
+              "The Android file is distributed as an APK on itch.io. The v1.1.2 announcement says the current mobile port supports Android devices. Use the official download section to get it; this website does not host the APK or ask you to install a separate download manager."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "steam",
+        "heading": "Is I Can Smell You From Here on Steam?",
+        "paragraphs": [
+          "As of October 3, 2026, the developer’s official itch.io page lists browser, Windows, Linux and Android versions and does not list an official Steam release. For playing today, follow the itch.io link rather than treating a Steam-related discussion or a search result with a similar name as a store listing.",
+          "This is a current availability statement. Platform plans can change, and the creator’s own announcements are the appropriate place to look for a later release. The absence of Steam from the present listing does not mean the game can never appear there. You can already access the official game through the browser and downloads listed above."
+        ]
+      },
+      {
+        "id": "mobile",
+        "heading": "Mobile Play Notes",
+        "paragraphs": [
+          "The creator’s v1.1.2 post adds volume control and announces the mobile port. Its practical recommendation is to download the APK if the game does not work in a mobile browser. That gives Android players an official alternative when browser play is unsuccessful, rather than requiring repeated attempts with an unrelated mirror.",
+          "The same announcement specifies Android only for the current mobile port. It does not announce an iPhone or iPad application. Browser availability and a native mobile port are separate questions: a browser listing alone does not establish that every mobile device will run it successfully. If you are using iOS, do not treat the Android APK as an installable iOS version."
+        ]
+      },
+      {
+        "id": "platform-comparison",
+        "heading": "Platform Comparison",
+        "paragraphs": [
+          "Choose a version based on the device you are using. Browser play starts on itch.io, while the downloadable files come from its download section. All the available versions below point back to the developer, so you can read the same game description and update notes before deciding."
+        ],
+        "table": {
+          "caption": "Official availability — last checked October 3, 2026",
+          "columns": [
+            "Platform",
+            "Official availability",
+            "How to access",
+            "Notes"
+          ],
+          "rows": [
+            [
+              "Browser",
+              "Yes",
+              "itch.io game page",
+              "HTML5"
+            ],
+            [
+              "Windows",
+              "Yes",
+              "itch.io downloads",
+              "Choose the Windows build"
+            ],
+            [
+              "Linux",
+              "Yes",
+              "itch.io downloads",
+              "Choose the Linux build"
+            ],
+            [
+              "Android",
+              "Yes",
+              "itch.io APK",
+              "Current mobile port is Android only"
+            ],
+            [
+              "Steam",
+              "Not listed as of October 3, 2026",
+              "—",
+              "Availability may change"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "before-playing",
+        "heading": "Before You Start",
+        "paragraphs": [
+          "The developer’s content warning includes body horror, violence, cannibalism, murder references, strong language and sexual themes. Read it before pressing Run game or opening a downloaded build. A dating-app opening and dark humor do not make this a light romance.",
+          "Itch.io lists English, subtitles and an average session of about half an hour. Set aside enough time to read the first run at your own pace, then use the ending guide if you want to explore another direction. The five-ending structure makes replaying useful, but you can choose how much outcome information to read beforehand."
+        ],
+        "links": [
+          {
+            "slug": "endings",
+            "label": "Explore the five endings after a run",
+            "description": "Plan replays with a spoiler-light tracker."
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Where can I play I Can Smell You From Here?",
+        "answer": "The official version is on catproblem9735’s itch.io page. It offers browser play and lists Windows, Linux and Android downloads."
+      },
+      {
+        "question": "Can I play it directly in the browser?",
+        "answer": "Yes. The official itch.io listing has an HTML5 version and a Run game control."
+      },
+      {
+        "question": "Is it on Steam?",
+        "answer": "As of October 3, 2026, an official Steam release is not listed on the developer’s itch.io page."
+      },
+      {
+        "question": "Can I download it for Windows or Linux?",
+        "answer": "Yes. Both platforms are listed officially. Choose the matching build from the developer’s download section."
+      },
+      {
+        "question": "Is there an Android version?",
+        "answer": "Yes. The v1.1.2 update announces an Android mobile port and directs players to the APK if mobile browser play does not work."
+      },
+      {
+        "question": "Is there an iPhone or iOS version?",
+        "answer": "The current official mobile-port announcement specifies Android only. It does not announce an iOS port."
+      }
+    ]
+  },
+  {
+    "enabled": true,
+    "keywords": [],
+    "primaryKeyword": "idimya",
+    "secondaryKeywords": [],
+    "searchIntent": "Game information",
+    "priority": "P1",
+    "navVisible": true,
+    "factsStatus": "verified",
+    "lastReviewed": "2026-10-03",
+    "slug": "idimya",
+    "pageType": "article",
+    "navLabel": "Idimya",
+    "title": "Idimya in I Can Smell You From Here: Character Guide",
+    "description": "Who is Idimya in I Can Smell You From Here? Learn her role in the horror visual novel, the first-date premise, and how your choices affect the outcome.",
+    "hero": {
+      "eyebrow": "Character guide · Premise and outcome spoilers",
+      "heading": "Idimya — I Can Smell You From Here Character Guide",
+      "lead": "Idimya is the central date and monster character in I Can Smell You From Here. She preys on humans, turning a first-date conversation into a survival problem for the player and the story they tell."
+    },
+    "relatedSlugs": [
+      "endings",
+      "where-to-play",
+      "controls"
+    ],
+    "sections": [
+      {
+        "id": "who-is",
+        "heading": "Who Is Idimya?",
+        "paragraphs": [
+          "Idimya is the character at the center of the date. The player’s first-ever dating-app match leads into a conversation where pleasing the other person is only part of the problem. As the horror premise becomes clear, what you say to her matters to your survival. That makes her both the focus of the interaction and the source of its danger.",
+          "She is a game character, not the developer. I Can Smell You From Here is made by catproblem9735. Keeping those roles separate helps when you are looking for the official game page or trying to understand a creator comment about an outcome."
+        ],
+        "table": {
+          "caption": "Idimya at a glance",
+          "columns": [
+            "Question",
+            "Character context"
+          ],
+          "rows": [
+            [
+              "Role",
+              "Central date / monster character"
+            ],
+            [
+              "Game",
+              "I Can Smell You From Here"
+            ],
+            [
+              "Relationship to the player",
+              "Conversation partner and survival threat"
+            ],
+            [
+              "Creator’s framing",
+              "Apex predator; survival is the main goal"
+            ],
+            [
+              "Outcome context",
+              "Prey, rival and crush directions discussed by the creator"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "survival",
+        "heading": "Why the First Date Becomes a Survival Problem",
+        "paragraphs": [
+          "The game begins with a familiar social pressure: wanting your first date to go well. Its central fear is telling one lie and then having to invent increasingly ridiculous details to keep that lie consistent. With Idimya, the stakes go beyond embarrassment. The player is talking to a predator and trying to maintain a story that lets them get through the encounter.",
+          "This premise is useful context for reading her responses. An answer that sounds impressive in isolation may commit your character to a position you need to maintain later. Pay attention to the claims already made rather than treating every new choice as a fresh conversation. The pressure comes from carrying the story forward while knowing that your date is dangerous."
+        ]
+      },
+      {
+        "id": "personality",
+        "heading": "Idimya’s Personality and Role in the Story",
+        "paragraphs": [
+          "The creator describes Idimya as an apex predator, confident in her own framework and able to learn through hands-on experience. That commentary explains why she need not reason like an ordinary human conversation partner. Her danger does not depend on fitting a familiar dating-sim personality type.",
+          "Read this as the creator’s explanation of her role, rather than a clinical diagnosis or a detailed biography. The game’s compact conversation gives you responses to work with, but it does not require an invented age, birthday or species chart to understand the encounter. What matters while playing is how she interprets the player’s claims and values.",
+          "The horror and humor can exist in the same interaction. The absurdity of maintaining a lie does not remove the predator-and-human tension. When you look back over a run, notice where a response reflects that mismatch in expectations; it can be more useful than assuming that being agreeable always means being safe."
+        ]
+      },
+      {
+        "id": "responses",
+        "heading": "How Your Choices Change Idimya’s Response",
+        "paragraphs": [
+          "Choices affect the conversation and the end-of-run psychological evaluation. The evaluation shows how close the player is to Idimya’s heart and values, giving you a way to compare relationship positioning across runs. Her response is therefore part of a continuing conversation, not merely a reaction to the final answer.",
+          "Creator comments confirm Prey as an ending and describe a rival outcome where she spares the player. They also mention rival plus crush. These directions show why survival, agreement and attraction should be considered separately: a rival relationship can still end with the player alive. Note the actual result before treating a relationship signal as a complete account of the ending."
+        ],
+        "links": [
+          {
+            "slug": "endings",
+            "label": "See how Idimya connects to the endings",
+            "description": "Read the outcome structure and compare your next run."
+          }
+        ]
+      },
+      {
+        "id": "romance",
+        "heading": "Can You “Fix” or Romance Idimya?",
+        "paragraphs": [
+          "The creator says survival is the main goal and that a traditional happily-ever-after is not the intended framing. A crush is the furthest romantic direction discussed. Approach the date with that boundary in mind: attraction can occur within the horror setup without promising a safe or lasting relationship afterward.",
+          "The hidden pacifist or vegan direction gives players another conversational possibility. The creator mentions persuading her in that direction when discussing a spared rival outcome. It is a route clue, not a promise that every dangerous part of her character disappears. You can explore it while still reading Idimya as the monster at the center of the story.",
+          "For a replay, decide what you want to test about the relationship: closer values, a more assertive disagreement, or a different stance toward humans. Record how she responds and compare the ending with the evaluation. That keeps your interpretation connected to the run you played instead of turning a preferred romantic reading into a guaranteed canonical conclusion."
+        ]
+      },
+      {
+        "id": "five-endings",
+        "heading": "Idimya and the 5 Endings",
+        "paragraphs": [
+          "The creator lists five endings, plus the evaluation shown after each run. Idimya connects those outcomes because the conversation revolves around surviving the encounter with her. The useful question for a replay is how a different story or value position changes that encounter, rather than how to obtain an invented relationship statistic.",
+          "If you want to investigate her responses yourself, read the first run normally and keep brief notes about major claims. Use dialogue review when you need to recall a recent line, and fast-forward familiar text on later attempts. The dedicated endings guide offers a blank tracker so you can separate what the game shows from the next idea you want to test."
+        ],
+        "links": [
+          {
+            "slug": "controls",
+            "label": "Read the conversation at your own pace",
+            "description": "Learn dialogue review and safe replay shortcuts."
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Who is Idimya?",
+        "answer": "She is the central date and monster character in I Can Smell You From Here. The player’s conversation with her is also a survival problem."
+      },
+      {
+        "question": "Is Idimya the developer?",
+        "answer": "No. Idimya is a character. The developer is catproblem9735."
+      },
+      {
+        "question": "Is Idimya human?",
+        "answer": "The game and creator frame her as a monster and an apex predator who preys on humans. A specific species label is not needed to understand that role."
+      },
+      {
+        "question": "Can Idimya spare the player?",
+        "answer": "Yes. The creator describes a rival outcome in which she spares the player."
+      },
+      {
+        "question": "Can you romance Idimya?",
+        "answer": "The creator discusses crush directions, but frames survival as the main goal and does not present a traditional happily-ever-after."
+      },
+      {
+        "question": "Is there a vegan or pacifist route with Idimya?",
+        "answer": "The creator describes a hidden pacifist or vegan direction that can influence an outcome, including discussion of a spared rival path."
+      }
+    ]
+  },
+  {
+    "enabled": true,
+    "keywords": [],
+    "primaryKeyword": "i can smell you from here",
+    "secondaryKeywords": [],
+    "searchIntent": "Game information",
+    "priority": "P1",
+    "navVisible": true,
+    "factsStatus": "verified",
+    "lastReviewed": "2026-10-03",
+    "slug": "controls",
+    "pageType": "guide",
+    "navLabel": "Controls",
+    "title": "I Can Smell You From Here Controls & How to Play",
+    "description": "Learn I Can Smell You From Here controls for dialogue, choices, fast-forward, history, and options on desktop, plus current Android and browser notes.",
+    "hero": {
+      "eyebrow": "Quick input reference",
+      "heading": "I Can Smell You From Here Controls",
+      "lead": "Press to advance dialogue; select an answer, then hold to confirm it. The official desktop controls below cover dialogue, choices, fast-forward, recent history and Options."
+    },
+    "relatedSlugs": [
+      "endings",
+      "where-to-play",
+      "idimya"
+    ],
+    "sections": [
+      {
+        "id": "quick-controls",
+        "heading": "Quick Controls Table",
+        "paragraphs": [],
+        "table": {
+          "caption": "Official desktop controls",
+          "columns": [
+            "Input",
+            "Action"
+          ],
+          "rows": [
+            [
+              "Enter / Space / Left Mouse Button",
+              "Progress dialogue"
+            ],
+            [
+              "Arrow Keys / Scroll Wheel",
+              "Navigate choices"
+            ],
+            [
+              "Hold Enter / Space / Left Mouse Button",
+              "Confirm a dialogue choice"
+            ],
+            [
+              "Hold Enter / Space / Left Mouse Button for 3 seconds",
+              "Fast-forward dialogue until the next choice"
+            ],
+            [
+              "Scroll Wheel",
+              "Review recent dialogue"
+            ],
+            [
+              "Tab",
+              "Open Options"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "advance",
+        "heading": "How to Advance Dialogue",
+        "paragraphs": [
+          "Press Enter, Space or the left mouse button to progress dialogue. Choose whichever input is comfortable for the way you are playing; the official list gives all three the same basic advance action. Read the line before advancing, especially on a first run where an earlier claim may matter to a later answer.",
+          "A normal dialogue press and a dialogue-choice confirmation are different actions. If a quick press moves text but does not commit the selected answer, that behavior matches the control scheme. The v1.1.1 notes also distinguish non-dialogue choices, which can be confirmed with an ordinary press, from dialogue choices that require a hold."
+        ]
+      },
+      {
+        "id": "confirm",
+        "heading": "How to Select and Confirm a Choice",
+        "paragraphs": [
+          "First navigate with the arrow keys or scroll wheel. Once the answer you want is selected, hold Enter, Space or the left mouse button to confirm the dialogue choice. Do not rely on moving the pointer over an answer: the v1.1.1 patch replaced the older mouse-hover selection approach with scroll-wheel navigation."
+        ],
+        "steps": [
+          {
+            "heading": "Select the answer",
+            "description": "Use the arrow keys or scroll wheel to navigate to the intended choice. Read the selected answer before committing."
+          },
+          {
+            "heading": "Hold to confirm",
+            "description": "Hold Enter, Space or the left mouse button. A quick tap is the dialogue-advance input, so use a deliberate hold for a dialogue choice."
+          },
+          {
+            "heading": "Read the response",
+            "description": "After confirmation, read the next response before progressing. On a replay, note the answer you changed so you can compare the outcome."
+          }
+        ]
+      },
+      {
+        "id": "fast-forward",
+        "heading": "How to Fast-Forward Dialogue",
+        "paragraphs": [
+          "Hold Enter, Space or the left mouse button for three seconds to fast-forward dialogue until the next choice. This is the creator’s documented shortcut for moving through text, rather than a separate skip key. When a choice appears, check the selection and use the normal hold-to-confirm action for your answer.",
+          "Use fast-forward for passages you already know. If you changed an earlier answer, a later conversation may be different even when the opening looks familiar. Release the input and read a new branch normally so you can notice the consequence. Replaying quickly is most useful when you still know which claims your character has made."
+        ],
+        "links": [
+          {
+            "slug": "endings",
+            "label": "Use fast-forward while tracking endings",
+            "description": "Compare changed decisions with the ending and evaluation."
+          }
+        ]
+      },
+      {
+        "id": "history",
+        "heading": "How to Review Previous Dialogue",
+        "paragraphs": [
+          "The scroll wheel can review recent dialogue. The v1.1.1 patch describes the boundary as the previous save point or choice, so history is a way to revisit recent lines rather than a complete transcript of everything in the run. Use it when you want to check wording before answering the next question.",
+          "The wheel has more than one role: it navigates choices while you are selecting an answer, reviews dialogue in the relevant reading context, and can navigate saves on the load-save page according to the patch. Look at the screen’s current task before scrolling. If you need to compare a claim from farther back, keep a short note during the run instead of relying on history beyond its boundary."
+        ]
+      },
+      {
+        "id": "options",
+        "heading": "Options and Recent Control Changes",
+        "paragraphs": [
+          "Tab opens Options. The v1.1.1 controls improvement patch reworked inputs, particularly for mouse players, and the v1.1.2 update added volume control. These are useful updates to know about when you are following older instructions or switching from an early downloaded build to a current one.",
+          "The updated mouse scheme uses the wheel to select and a hold to confirm a dialogue answer. That distinction helps prevent a casual pointer movement from choosing a reply. When checking an old control tip, compare it with the developer’s current list and patch notes rather than assuming the earlier hover behavior still applies."
+        ]
+      },
+      {
+        "id": "android",
+        "heading": "Mobile / Android Notes",
+        "paragraphs": [
+          "The v1.1.2 announcement introduces an Android mobile port. If mobile browser play does not work, the creator recommends downloading the APK. The desktop keyboard and mouse table above should be read as the desktop reference; the mobile announcement does not give a separate full touch-control table.",
+          "Use the game’s on-screen interface on Android and the developer’s official download page for the APK. The current mobile-port announcement specifies Android only, so it does not establish iOS controls or an iPhone application. Choose the official build for your device before using a platform-specific input guide."
+        ],
+        "links": [
+          {
+            "slug": "where-to-play",
+            "label": "Official browser and Android access",
+            "description": "Find the itch.io link and current platform notes."
+          }
+        ]
+      },
+      {
+        "id": "troubleshooting",
+        "heading": "Why Isn’t My Choice Confirming?",
+        "paragraphs": [
+          "A dialogue choice requires a hold. If you have selected an answer but a quick Enter, Space or left-click press does not confirm it, hold one of those inputs deliberately. Select first, then confirm: repeatedly tapping without checking the selected answer can make the distinction harder to see.",
+          "For mouse play, use the scroll wheel to navigate the answers, rather than expecting hover selection. For browser play, make sure the game has focus before sending keyboard input. If you reach a new branch while fast-forwarding, stop and read the choice; the three-second dialogue shortcut and the choice-confirmation hold serve different tasks."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "How do I confirm a choice in I Can Smell You From Here?",
+        "answer": "Navigate with arrow keys or the scroll wheel, then hold Enter, Space or the left mouse button to confirm a dialogue choice."
+      },
+      {
+        "question": "How do I fast-forward dialogue?",
+        "answer": "Hold Enter, Space or the left mouse button for three seconds. Fast-forward continues until the next choice."
+      },
+      {
+        "question": "How do I review previous dialogue?",
+        "answer": "Use the scroll wheel. The official patch describes review up to the previous save point or choice."
+      },
+      {
+        "question": "What key opens Options?",
+        "answer": "Tab opens Options."
+      },
+      {
+        "question": "Can I use the mouse wheel to select choices?",
+        "answer": "Yes. The v1.1.1 patch added scroll-wheel choice navigation alongside the arrow keys."
+      },
+      {
+        "question": "Are there mobile controls?",
+        "answer": "The official Android port uses the mobile game interface. The v1.1.2 post recommends the APK if mobile browser play does not work; it specifies Android only."
+      }
+    ]
+  }
+]

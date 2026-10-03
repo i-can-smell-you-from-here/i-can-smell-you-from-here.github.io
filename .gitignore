@@ -1,0 +1,21 @@
+# Dependencies and generated build files
+node_modules/
+.next/
+out/
+next-env.d.ts
+*.tsbuildinfo
+
+# Local environment configuration
+.env*
+!.env.example
+
+# Local editor and operating-system files
+.idea/
+.DS_Store
+*.log
+
+# Browser QA, packages and local implementation report
+.playwright-cli/
+release/
+output/playwright/
+/docs/implementation-report.md
