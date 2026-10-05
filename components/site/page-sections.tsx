@@ -1,10 +1,16 @@
 import { ArrowRight, CheckCircle2 } from "lucide-react";
 import Link from "next/link";
+import { Fragment } from "react";
+import { NativeAdSlot } from "@/components/integrations/native-ad-slot";
 import type { PageSection } from "@/config/types";
 import { routePath } from "@/lib/urls";
 import { DataTable } from "./data-table";
 
-export function PageSections({ sections }: { sections: PageSection[] }) {
+export function PageSections({ sections, withEarlyNativeAd = false }: { sections: PageSection[]; withEarlyNativeAd?: boolean }) {
+  // Prefer existing summary tables; otherwise use an existing intro/paragraph.
+  // No text, section, or content order changes are needed for ad placement.
+  const first = sections[0];
+  const placement = !withEarlyNativeAd ? null : first?.table ? "table" : first?.intro ? "intro" : first?.paragraphs?.length ? "paragraph" : "section";
   return (
     <div className="space-y-16">
       {sections.map((section) => (
@@ -12,7 +18,11 @@ export function PageSections({ sections }: { sections: PageSection[] }) {
           {section.eyebrow ? <p className="eyebrow">{section.eyebrow}</p> : null}
           <h2>{section.heading}</h2>
           {section.intro ? <p className="section-lead">{section.intro}</p> : null}
-          {section.paragraphs?.map((paragraph) => <p key={paragraph}>{paragraph}</p>)}
+          {section === first && placement === "intro" ? <NativeAdSlot /> : null}
+          {section.paragraphs?.map((paragraph, index) => <Fragment key={paragraph}>
+            <p>{paragraph}</p>
+            {section === first && index === 0 && placement === "paragraph" ? <NativeAdSlot /> : null}
+          </Fragment>)}
 
           {section.subsections?.length ? (
             <div className="mt-7 grid gap-5 md:grid-cols-2">
@@ -44,6 +54,7 @@ export function PageSections({ sections }: { sections: PageSection[] }) {
           ) : null}
 
           {section.table ? <DataTable table={section.table} /> : null}
+          {section === first && placement === "table" ? <NativeAdSlot /> : null}
 
           {section.links?.length ? (
             <div className="mt-7 grid gap-4 sm:grid-cols-2">
@@ -55,6 +66,7 @@ export function PageSections({ sections }: { sections: PageSection[] }) {
               ))}
             </div>
           ) : null}
+          {section === first && placement === "section" ? <NativeAdSlot /> : null}
         </section>
       ))}
     </div>

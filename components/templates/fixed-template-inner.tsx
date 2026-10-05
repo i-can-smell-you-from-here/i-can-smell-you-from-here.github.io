@@ -1,4 +1,4 @@
-import { NativeAdSlot } from "@/components/integrations/native-ad-slot";
+import { ResponsiveBanner } from "@/components/integrations/responsive-banner";
 import { Breadcrumbs } from "@/components/site/breadcrumbs";
 import { Faq } from "@/components/site/faq";
 import { JsonLd } from "@/components/site/json-ld";
@@ -20,12 +20,12 @@ export function FixedTemplateInner({ page }: { page: SeoPageDefinition }) {
         <h1>{page.hero.heading}</h1><p className="lead">{page.hero.lead}</p>
         {page.slug === "where-to-play" ? <div className="actions"><OfficialPlayLink /></div> : null}
       </section>
+      <ResponsiveBanner />
       <div className="layout">
-        <article className="portal-body"><PageSections sections={page.sections} /><GameFigures screenshots={page.screenshots ?? []} />
+        <article className="portal-body"><PageSections sections={page.sections} withEarlyNativeAd /><GameFigures screenshots={page.screenshots ?? []} />
           {page.faq?.length ? <Faq items={page.faq} /> : null}
           <div id="related"><RelatedPages pages={getRelatedPages(page)} /></div>
           {!legal ? <OfficialReferences controls={page.slug === "controls" || page.slug === "endings"} character={page.slug === "idimya" || page.slug === "endings"} /> : null}
-          <NativeAdSlot />
         </article>
         <aside className="toc"><nav aria-label="On this page"><b>On this page</b>{page.sections.map(section => <a key={section.id} href={`#${section.id}`}>{section.heading}</a>)}
           {page.faq?.length ? <a href="#faq">Frequently Asked Questions</a> : null}

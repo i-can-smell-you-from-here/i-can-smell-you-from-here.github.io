@@ -2,6 +2,16 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Ad wrappers only: never restyle provider creatives or floating UI. */
+.adsterra-slot { clear: both; min-width: 0; max-width: 100%; margin: 20px 0; padding: 12px 0; border-block: 1px solid hsl(var(--border)); }
+.adsterra-slot .adsterra-label { margin: 0 0 8px; color: hsl(var(--muted-foreground)); font: 10px/1.4 Arial, sans-serif; letter-spacing: .08em; text-align: center; }
+.adsterra-host { display: flex; justify-content: center; min-width: 0; max-width: 100%; }
+.adsterra-host-banner { min-height: 50px; }
+.adsterra-host-native { min-height: 180px; }
+.adsterra-frame { display: block; flex: 0 1 auto; max-width: 100%; border: 0; }
+.adsterra-native { background: hsl(var(--muted) / .25); }
+@media (min-width: 768px) { .adsterra-host-banner { min-height: 90px; } }
+
 * { box-sizing: border-box; }
 html { scroll-behavior: smooth; }
 body {

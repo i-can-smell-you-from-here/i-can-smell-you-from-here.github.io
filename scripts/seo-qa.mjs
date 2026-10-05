@@ -95,6 +95,13 @@ if (/^G-[A-Z0-9]+$/.test(measurementId)) {
   });
   for (const path of htmlFiles('out')) {
     const html = readFileSync(path, 'utf8');
+    // Ad iframe documents are noindex resources, not site pages. They must not
+    // send additional page views; every actual page still gets the GA checks.
+    if (/^out\/ads\/adsterra-(desktop|mobile|native)\.html$/.test(path)) {
+      assert.ok(/<meta name="robots" content="noindex">/.test(html));
+      assert.ok(!html.includes('www.googletagmanager.com/gtag/js'));
+      continue;
+    }
     const head = html.match(/<head\b[^>]*>([\s\S]*?)<\/head>/i)?.[1] ?? '';
     const scripts = [...html.matchAll(/<script\b([^>]*)>([\s\S]*?)<\/script>/gi)];
     const loaders = scripts.filter(script => script[1].includes('www.googletagmanager.com/gtag/js'));

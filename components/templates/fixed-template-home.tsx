@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { NativeAdSlot } from "@/components/integrations/native-ad-slot";
+import { ResponsiveBanner } from "@/components/integrations/responsive-banner";
 import { Faq } from "@/components/site/faq";
 import { JsonLd } from "@/components/site/json-ld";
 import { PageSections } from "@/components/site/page-sections";
@@ -22,7 +22,8 @@ export function FixedTemplateHome({ home }: { home: HomePageDefinition }) {
           <img src={assetPath(siteConfig.assets.cover)} alt="I Can Smell You From Here game artwork" width="800" height="500" fetchPriority="high" />
         </figure>
       </section>
-      <div className="portal-body"><PageSections sections={home.sections} /><GameFigures screenshots={home.screenshots} /><Faq items={home.faq} /><OfficialReferences controls character /><NativeAdSlot /></div>
+      <ResponsiveBanner />
+      <div className="portal-body"><PageSections sections={home.sections} withEarlyNativeAd /><GameFigures screenshots={home.screenshots} /><Faq items={home.faq} /><OfficialReferences controls character /></div>
     </main>
   </>;
 }

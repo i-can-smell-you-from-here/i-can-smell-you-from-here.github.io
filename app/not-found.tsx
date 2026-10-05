@@ -1,6 +1,7 @@
 import { ArrowLeft } from "lucide-react";
 import Link from "next/link";
 import type { Metadata } from "next";
+import { ResponsiveBanner } from "@/components/integrations/responsive-banner";
 
 export const metadata: Metadata = {
   title: { absolute: "Page Not Found" },
@@ -20,6 +21,7 @@ export default function NotFound() {
         <Link href="/" className="button-primary mt-8"><ArrowLeft size={18} />Return to Home</Link>
         <div className="mt-6 flex flex-wrap justify-center gap-5"><Link href="/endings/">Endings</Link><Link href="/where-to-play/">Where to Play</Link><Link href="/idimya/">Idimya</Link><Link href="/controls/">Controls</Link></div>
       </div>
+      <ResponsiveBanner />
     </main>
   );
 }
