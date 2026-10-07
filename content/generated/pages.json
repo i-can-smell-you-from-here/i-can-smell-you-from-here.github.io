@@ -717,5 +717,247 @@
         "answer": "The official Android port uses the mobile game interface. The v1.1.2 post recommends the APK if mobile browser play does not work; it specifies Android only."
       }
     ]
+  },
+  {
+    "enabled": true,
+    "keywords": [],
+    "primaryKeyword": "i can smell you from here guide",
+    "secondaryKeywords": [
+      "i can smell you from here walkthrough",
+      "how to play i can smell you from here",
+      "i can smell you from here step by step",
+      "i can smell you from here choices",
+      "what choices should i make in i can smell you from here",
+      "i can smell you from here game guide"
+    ],
+    "searchIntent": "Practical gameplay guide and walkthrough",
+    "priority": "P0",
+    "navVisible": true,
+    "factsStatus": "verified",
+    "lastReviewed": "2026-10-06",
+    "slug": "guide",
+    "pageType": "guide",
+    "navLabel": "Guide",
+    "title": "I Can Smell You From Here Guide & Walkthrough",
+    "description": "I Can Smell You From Here guide and walkthrough with gameplay tips, choice strategy, controls, route planning, saves, restarts, and ending help.",
+    "hero": {
+      "eyebrow": "How to play · Spoiler-light progression",
+      "heading": "I Can Smell You From Here Guide & Walkthrough",
+      "lead": "This is a practical guide for playing through I Can Smell You From Here. The game is choice-driven, and different choices can lead to different outcomes. This page covers how to start, how to progress, and how to test another route. For full ending-specific details, use the endings guide. For every input, use the controls guide."
+    },
+    "relatedSlugs": [
+      "endings",
+      "controls",
+      "where-to-play",
+      "idimya"
+    ],
+    "sections": [
+      {
+        "id": "how-to-play",
+        "heading": "How to Play I Can Smell You From Here",
+        "paragraphs": [
+          "You play by reading a date and answering when the conversation asks you to. The game is a horror visual novel: a first date from a dating app turns on one lie, and later lines have to stay consistent with what you already said. There is no combat system and no inventory. The loop is to advance the text, choose a reply, and live with the direction that reply creates.",
+          "Press Enter, Space, or the left mouse button to move dialogue forward. When a dialogue choice is on screen, highlight the answer with the arrow keys or the scroll wheel, then hold one of those same inputs to confirm it. A quick tap only advances text. Non-dialogue choices can be confirmed with an ordinary press, so check whether you are still reading or already selecting. The creator lists five endings, and each run also closes with a psychological evaluation of how close you are to Idimya's heart and values. The ending is the result. The evaluation is context for that run. This page does not assign hidden scores or percentage odds."
+        ],
+        "links": [
+          {
+            "slug": "endings",
+            "label": "Ending-specific details",
+            "description": "Open the endings guide when you want outcome structure instead of general play advice."
+          },
+          {
+            "slug": "controls",
+            "label": "Control-specific details",
+            "description": "See every documented input before you rely on a shortcut during a run."
+          }
+        ]
+      },
+      {
+        "id": "walkthrough-basics",
+        "heading": "I Can Smell You From Here Walkthrough Basics",
+        "intro": "Work through a run in this order. It keeps the first play readable and makes a later test easier to compare.",
+        "subsections": [
+          {
+            "heading": "Start a New Run",
+            "paragraphs": [
+              "Open the official game and start a fresh conversation. Essential controls appear when the game boots, so look at them once before the date gets moving. For a first playthrough, the developer suggests leaving the Tab options alone if you want the scene to play straight through. An average session is about half an hour. Careful reading, or a second attempt, takes longer."
+            ]
+          },
+          {
+            "heading": "Read Each Choice Before Confirming",
+            "paragraphs": [
+              "Move to the answer you mean before you hold to confirm it. Mouse selection uses the scroll wheel, not hovering the pointer over a line. Read the highlighted reply. Dialogue review only goes back to the previous save point or choice, so a claim from much earlier in the date will not stay in that log. Write that earlier wording down if you still need it."
+            ]
+          },
+          {
+            "heading": "Use Saves Before Important Decisions",
+            "paragraphs": [
+              "Press Tab to open Options. The developer describes 20 save slots you can return to, plus a way to trace the sequence of choices already made. Save before a reply that commits the story you are telling, and note that moment yourself. On the load-save page, the scroll wheel moves between saves. A save helps when you know which decision it sits in front of."
+            ]
+          },
+          {
+            "heading": "Restart or Replay to Test Other Routes",
+            "paragraphs": [
+              "Options also lets you restart a run at the main date scene, right before the branching choices begin. Use that restart when you want every decision again from the start. Load an earlier save when you only want to change a later answer. Both are ways to replay. Neither one is a formula for a specific ending."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "choices",
+        "heading": "How Choices Affect Your Run",
+        "paragraphs": [
+          "A decision can change where the date goes and which outcome you reach. Because the story has to stay consistent after a lie, a later answer inherits the claims already on the table. When two runs feel different, compare the position you took. The game does not show an affection meter, a hidden stat, or a percentage to optimize.",
+          "On a first run, pick replies that belong to one story and read what happens. When you test another direction, change a meaningful claim and watch how Idimya responds. She is both the date and the danger in the scene, so her reaction is the feedback you can actually use. There is no single magic line to hunt for. When you want route-specific ending details, leave this walkthrough and open the endings page."
+        ],
+        "links": [
+          {
+            "slug": "endings",
+            "label": "Route-specific ending details",
+            "description": "Use the endings page once you are choosing a result on purpose."
+          },
+          {
+            "slug": "idimya",
+            "label": "Who Idimya is",
+            "description": "Read the character page for context about the person across the table."
+          }
+        ]
+      },
+      {
+        "id": "route-strategy",
+        "heading": "A Simple Step-by-Step Route Strategy",
+        "intro": "Follow these steps to explore the conversation efficiently. They are not a perfect-route script, and they do not guarantee a particular ending.",
+        "steps": [
+          {
+            "heading": "Complete one natural blind run",
+            "description": "Play the first date without chasing a result. One complete story shows you the shape of the conversation before you start testing it."
+          },
+          {
+            "heading": "Note major decision points",
+            "description": "Afterward, list the claims that seemed to steer the talk. You are marking places to revisit, not building a secret flag chart."
+          },
+          {
+            "heading": "Save before important decisions",
+            "description": "On the next attempt, open Options with Tab and save before a choice you plan to test. Twenty slots are available, so you can keep more than one branch point."
+          },
+          {
+            "heading": "Replay and test different choices",
+            "description": "Load that save, or restart at the main date scene if you need the decisions from the beginning. Change one significant answer when you want a clear comparison."
+          },
+          {
+            "heading": "Fast-forward text you have already read",
+            "description": "Hold Enter, Space, or the left mouse button for three seconds to fast-forward until the next choice. Stop and read when the branch is new. There is no separate skip key."
+          },
+          {
+            "heading": "Compare the outcomes",
+            "description": "Write down the ending the game shows and what the evaluation says about that run. The evaluation explains the route. It does not add a sixth ending."
+          },
+          {
+            "heading": "Use the endings page for specific targets",
+            "description": "Switch to the endings guide when you want to aim at a particular result. Keep saving and replaying, and let that page carry the outcome detail."
+          }
+        ]
+      },
+      {
+        "id": "if-stuck",
+        "heading": "What to Do If You Get Stuck",
+        "paragraphs": [
+          "If a run goes somewhere you do not want, load an earlier save and choose a different response. If that save is already past the moment you care about, restart at the main date scene and play back to it. The conversation is not a locked item puzzle. The way forward is an earlier decision.",
+          "If a selected answer will not commit, you are likely tapping a dialogue choice instead of holding it. Highlight the line with the arrow keys or the scroll wheel, then hold Enter, Space, or the left mouse button. In the browser version, click the game first if the keyboard does nothing, so the page has focus.",
+          "Use the controls page when the problem is an input. Use the endings page when you are trying to reach a different ending on purpose. This walkthrough stays on progression so those two pages can stay specific."
+        ],
+        "links": [
+          {
+            "slug": "controls",
+            "label": "Review the controls",
+            "description": "Check confirmation, fast-forward, history, and Options when an input is the blocker."
+          },
+          {
+            "slug": "endings",
+            "label": "Target a different ending",
+            "description": "Move to the endings guide when the goal is a specific result."
+          }
+        ]
+      },
+      {
+        "id": "walkthrough-controls",
+        "heading": "Controls That Help During a Walkthrough",
+        "paragraphs": [
+          "A walkthrough only needs a few inputs. Press to advance dialogue. Hold to confirm a dialogue choice. Hold Enter, Space, or the left mouse button for three seconds to fast-forward familiar text until the next choice. The scroll wheel reviews recent lines, back to the previous save point or choice, and it also moves through saves on the load-save page. Tab opens Options, where the save slots, the choice history, and the restart at the main date scene are available.",
+          "Volume, the Android build, and the older hover-to-select behavior belong on the full controls page. Check that page before you follow an older tip from somewhere else."
+        ],
+        "links": [
+          {
+            "slug": "controls",
+            "label": "See the full I Can Smell You From Here controls guide",
+            "description": "Open the complete input reference for desktop, browser, and Android notes."
+          }
+        ]
+      },
+      {
+        "id": "explore-endings",
+        "heading": "How to Explore Different Endings",
+        "paragraphs": [
+          "Getting another ending means replaying a choice, not finding a code. Note the decision you want to change, then load a save or restart at the main date scene and answer differently. Fast-forward only text you already understand. At the end, compare the new result with that run's evaluation.",
+          "This page stops at the method. It does not list trigger lines, route flags, or a ranked path. When you are ready to study the five endings directly, use the endings page and keep your own notes beside it."
+        ],
+        "links": [
+          {
+            "slug": "endings",
+            "label": "Open the endings guide",
+            "description": "Read the five-ending structure and track runs on the dedicated endings page."
+          }
+        ]
+      },
+      {
+        "id": "where-to-play-guide",
+        "heading": "Where to Play I Can Smell You From Here",
+        "paragraphs": [
+          "Start the official game on the developer's itch.io page. Browser play and the downloadable builds are listed there. This guide does not host the files. For the current platform notes, use the where-to-play page. The main overview is the place for the premise and the content warning before you begin."
+        ],
+        "links": [
+          {
+            "slug": "where-to-play",
+            "label": "Where to play and download",
+            "description": "Open the official platform page for browser play and the current downloads."
+          },
+          {
+            "slug": "",
+            "label": "Game overview",
+            "description": "Return to the main page for the premise, session length, and content warning."
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "How do you play I Can Smell You From Here?",
+        "answer": "Read the date, advance each line with Enter, Space, or the left mouse button, and hold one of those inputs to confirm a dialogue choice. Your answers carry the story. There is no separate action system."
+      },
+      {
+        "question": "Is there an I Can Smell You From Here walkthrough?",
+        "answer": "Yes. This page is the walkthrough for starting a run, saving, replaying, and testing choices. It stays spoiler-light. The endings page covers outcome-specific detail."
+      },
+      {
+        "question": "What choices should I make in I Can Smell You From Here?",
+        "answer": "On a first run, choose answers that fit one consistent story. After that, save before an important decision and change one meaningful reply at a time. The game does not publish a point chart that makes one line universally correct."
+      },
+      {
+        "question": "How do I get different endings?",
+        "answer": "Replay from a save, or restart at the main date scene, and take a different direction. The creator lists five endings, plus an evaluation after each run. Use the endings page when you want to target those results on purpose."
+      },
+      {
+        "question": "Can I save before making important choices?",
+        "answer": "Yes. Press Tab to open Options. The developer describes 20 save slots you can revisit, and the load-save page lets you return to one before you commit a different answer."
+      },
+      {
+        "question": "Where can I find the controls?",
+        "answer": "The controls page lists dialogue, choice confirmation, fast-forward, history, and Options. This guide only summarizes the inputs that help a walkthrough."
+      },
+      {
+        "question": "Where can I play I Can Smell You From Here?",
+        "answer": "The official game is on catproblem9735's itch.io page, with browser play and downloads. The where-to-play page collects the current platform details."
+      }
+    ]
   }
 ]

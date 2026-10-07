@@ -9,7 +9,7 @@ const decode = text => text.replace(/&amp;/g, '&').replace(/&quot;/g, '"').repla
 const visible = html => decode(html.replace(/<(script|style)\b[^>]*>[\s\S]*?<\/\1>/gi, '').replace(/<[^>]+>/g, ' ')).replace(/\s+/g, ' ').trim();
 const titles = new Set(), descriptions = new Set();
 const results = [];
-assert.equal(pages.length, 5);
+assert.equal(pages.length, 6);
 assert.equal(site.hosting.basePath, '');
 assert.equal(site.readyForLaunch, true);
 for (const page of pages) {
@@ -40,9 +40,11 @@ for (const page of pages) {
   assert.equal((html.match(/<footer\b/g) ?? []).length, 1, 'Duplicate footer');
   const header = html.match(/<header\b[^>]*>([\s\S]*?)<\/header>/)?.[1] ?? '';
   const footer = html.match(/<footer\b[^>]*>([\s\S]*?)<\/footer>/)?.[1] ?? '';
-  for (const slug of ['endings','where-to-play','idimya','controls']) {
+  for (const slug of ['endings','where-to-play','idimya','controls','guide']) {
     assert.ok(header.includes(`href="/${slug}/"`), `Header missing ${slug}`);
     assert.ok(footer.includes(`href="/${slug}/"`), `Footer missing ${slug}`);
+  }
+  for (const slug of ['endings','where-to-play','idimya','controls']) {
     if (!page.slug) assert.ok(body.includes(`href="/${slug}/"`), `Home body missing ${slug}`);
   }
   const sectionCheck = section => {
@@ -79,7 +81,7 @@ for (const page of pages) {
 }
 const sitemap = readFileSync('out/sitemap.xml','utf8');
 for (const result of results) assert.ok(sitemap.includes(`<loc>${result.canonical}</loc>`));
-assert.equal((sitemap.match(/<loc>/g) ?? []).length,5);
+assert.equal((sitemap.match(/<loc>/g) ?? []).length,6);
 const robots = readFileSync('out/robots.txt','utf8');
 assert.ok(robots.includes('Allow: /') && !robots.includes('Disallow: /'));
 assert.ok(robots.includes(`Sitemap: ${origin}sitemap.xml`));
@@ -116,5 +118,5 @@ if (/^G-[A-Z0-9]+$/.test(measurementId)) {
   }
   console.log('Google tag QA passed: one loader and initializer in the static head of every exported HTML page.');
 }
-console.log('SEO QA passed: all five pages, rich content, navigation, anchors, metadata, schema, sitemap and robots.');
+console.log('SEO QA passed: all six pages, rich content, navigation, anchors, metadata, schema, sitemap and robots.');
 console.log(JSON.stringify(results,null,2));

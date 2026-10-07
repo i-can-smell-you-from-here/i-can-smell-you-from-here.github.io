@@ -79,14 +79,18 @@ export function pageSchemas(page: SeoPageDefinition): Schema[] {
 
   if (page.faq?.length) schemas.push(faqSchema(page.faq));
 
-  const confirmation = page.slug === "controls" ? page.sections.find(section => section.id === "confirm") : undefined;
-  if (confirmation?.steps?.length) {
+  const howToSection = page.slug === "controls"
+    ? page.sections.find((section) => section.id === "confirm")
+    : page.slug === "guide"
+      ? page.sections.find((section) => section.id === "route-strategy")
+      : undefined;
+  if (howToSection?.steps?.length) {
     schemas.push({
       "@context": "https://schema.org",
       "@type": "HowTo",
-      name: confirmation.heading,
-      description: confirmation.paragraphs?.[0],
-      step: confirmation.steps.map((step, index) => ({
+      name: howToSection.heading,
+      description: howToSection.paragraphs?.[0] ?? howToSection.intro,
+      step: howToSection.steps.map((step, index) => ({
         "@type": "HowToStep",
         position: index + 1,
         name: step.heading,

@@ -25,7 +25,7 @@ export function FixedTemplateInner({ page }: { page: SeoPageDefinition }) {
         <article className="portal-body"><PageSections sections={page.sections} withEarlyNativeAd /><GameFigures screenshots={page.screenshots ?? []} />
           {page.faq?.length ? <Faq items={page.faq} /> : null}
           <div id="related"><RelatedPages pages={getRelatedPages(page)} /></div>
-          {!legal ? <OfficialReferences controls={page.slug === "controls" || page.slug === "endings"} character={page.slug === "idimya" || page.slug === "endings"} /> : null}
+          {!legal ? <OfficialReferences controls={page.slug === "controls" || page.slug === "endings" || page.slug === "guide"} character={page.slug === "idimya" || page.slug === "endings"} saves={page.slug === "guide"} /> : null}
         </article>
         <aside className="toc"><nav aria-label="On this page"><b>On this page</b>{page.sections.map(section => <a key={section.id} href={`#${section.id}`}>{section.heading}</a>)}
           {page.faq?.length ? <a href="#faq">Frequently Asked Questions</a> : null}
